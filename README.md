@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - Also : computer vision, reinforcement learning, graph neural network, systemic generalization, federated learning, robustness in machine learning ...
 - I use pytorch by default, and tensorflow if the project constraints require it.
 - I'm interested in philosophy and physics (theoretical, especially quantum physics, gravitation theory and cosmology)
-- I do body building, and plan on getting into boxing.
+- I do body building and muay thai / thai boxing (Thailang boxing).
 - If you have an interesting book to recommend, don't hesitate.
