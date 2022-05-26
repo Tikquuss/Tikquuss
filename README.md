@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+⚡ Learning deep learning ...
 
 <!--
 - Focus areas: attention mechanism, transform-based models, neural language modeling and neural machine translation, multimodal and mutitask learning, meta learning and curriculum learning, automatic speech recognition and speech synthesis.
