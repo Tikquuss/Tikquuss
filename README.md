@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⚡ Learning (?) Deep Learning & Maths by doing Research at MILA ...
+🔭 Research Student at MILA
+⚡I like to reproduce existing work
 
 <!--
 - Focus areas: attention mechanism, transform-based models, neural language modeling and neural machine translation, multimodal and mutitask learning, meta learning and curriculum learning, automatic speech recognition and speech synthesis.
