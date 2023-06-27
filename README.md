@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Learning something ...
+
+<!--
 🔭 Research Student at Mila, Quebec Artificial Intelligence Institute  
 ⚡I like to reproduce existing work  
 ⚡I also like to explain to people and share with them things I understand, things I am trying to understand or problems I am trying to solve
+-->
 
 <!--
 - Focus areas: attention mechanism, transform-based models, neural language modeling and neural machine translation, multimodal and mutitask learning, meta learning and curriculum learning, automatic speech recognition and speech synthesis.
